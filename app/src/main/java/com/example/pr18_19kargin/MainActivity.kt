@@ -26,6 +26,11 @@ class MainActivity : AppCompatActivity() {
             R.id.row1 -> TextChapter.setText(R.string.chapter1)
             R.id.row2 -> TextChapter.setText(R.string.chapter2)
             R.id.row3 -> TextChapter.setText(R.string.chapter3)
+            R.id.row4 -> TextChapter.setText(R.string.chapter4)
+            R.id.row5 -> TextChapter.setText(R.string.chapter5)
+            R.id.row6 -> TextChapter.setText(R.string.chapter6)
+            R.id.row7 -> TextChapter.setText(R.string.chapter7)
+            R.id.row8 -> TextChapter.setText(R.string.chapter8)
         }
     }
 }
